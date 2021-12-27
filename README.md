@@ -98,8 +98,16 @@
 <br />
 
 ---
+<!-- github stats -->
+## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=marsigliadev&show_icons=true&hide_border=true&count_private=true" align="left" alt="marsiglia's github stats" >
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=marsigliadev&show_icons=true&hide_border=true&count_private=true&theme=dracula" alt="marsiglia's github stats" >
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marsigliadev&exclude_repo=github-readme-stats,anuraghazra.github.iomarsigliadev&hide_border=tru&theme=dracula" align="left" alt="marsiglia's most used programming languages" >
+</a>
 
 
 <br />
