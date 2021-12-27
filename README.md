@@ -1,19 +1,14 @@
 # Hi there, I'm Luis Marsiglia 👋
 
-<!-- [![Website](https://img.shields.io/website-up-down-green-red/http/my-website-url.com.svg)][website-url] -->
-<!-- [![Website](https://img.shields.io/website?label=my-website-name.com&style=flat&url=https%3A%2F%2Fcodestackr.com)][website-url] -->
-<!-- [![Twitter Follow](https://img.shields.io/twitter/follow/marsigliacr?color=1DA1F2&logo=twitter&style=flat)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmarsigliadev&screen_name=marsigliacr) -->
-
 ---
 <br />
 
 ## About me
 - 👨‍💻 I'm a junior web developer from Venezuela
 - 🔭 I’m currently working on my portfolio website
-- 🌱 I’m currently learning React, NextJS and Solidity
+- 🌱 I’m currently learning React and NextJS
 - ⚡ Fun fact: I'm also working on mobile esports (Clash Royale) 📱 as data analyst for [Tribe Gaming](https://twitter.com/tribegaming). You can check my [Twitter](https://twitter.com/marsigliaCR), I'm verified <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Twitter_Verified_Badge.svg/512px-Twitter_Verified_Badge.svg.png" alt="html" style="vertical-align:top" width="22px">
 - 🧑 He / him
-- 👶 Born on 1996
 
 ---
 <br />
@@ -75,12 +70,20 @@
 
 ## Social 
 <p align="left">
-  <a href="https://twitter.com/marsigliacr">
+  <!-- <a href="https://twitter.com/marsigliacr">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="twitter" style="vertical-align:top; margin:4px">
+  </a> -->
+
+  <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/marsigliacr?color=1DA1F2&logo=twitter&style=flat)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmarsigliadev&screen_name=marsigliacr) -->
+  
+  <a href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmarsigliadev&screen_name=marsigliacr">
+    <img src="https://img.shields.io/twitter/follow/marsigliacr?label=Follow&color=1DA1F2&logo=twitter&style=flat" alt="follow" style="vertical-align:top; margin:4px">
   </a>
+
   <a href="mailto:marsiglia.business@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="gmail" style="vertical-align:top; margin:4px">
   </a>
+  
   <!-- <a href="https://www.instagram.com/marsigliah">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="instagram" style="vertical-align:top; margin:4px">
   </a> -->
@@ -90,6 +93,10 @@
   <!-- <a href="[#](https://stackoverflow.com/users/16011210/marsidev)">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white" alt="stackoverflow" style="vertical-align:top; margin:4px">
   </a> -->
+
+  <!-- [![Website](https://img.shields.io/website-up-down-green-red/http/my-website-url.com.svg)][website-url] -->
+  <!-- [![Website](https://img.shields.io/website?label=my-website-name.com&style=flat&url=https%3A%2F%2Fcodestackr.com)][website-url] -->
+
 </p>
 
 <br />
