@@ -100,15 +100,17 @@
 ---
 ## GitHub Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=marsigliadev&show_icons=true&hide_border=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&border_radius=15" alt="marsiglia's github stats" >
-</a>
+<!-- <p align="left"> -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=marsigliadev&show_icons=true&hide_border=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&border_radius=15" alt="marsiglia's github stats" >
+  </a>
+<!-- </p> -->
 
-<br />
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marsigliadev&exclude_repo=github-readme-stats,anuraghazra.github.iomarsigliadev&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&border_radius=15" align="left" alt="marsiglia's most used programming languages" >
-</a>
+<!-- <p align="left"> -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marsigliadev&exclude_repo=github-readme-stats,anuraghazra.github.iomarsigliadev&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&border_radius=15" alt="marsiglia's most used programming languages" >
+  </a>
+<!-- </p> -->
 
 
 <br />
