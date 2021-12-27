@@ -2,6 +2,7 @@
 
 <br />
 
+---
 ## About me
 - 👨‍💻 I'm a junior web developer from Venezuela
 - 🔭 I’m currently working on my portfolio website
@@ -11,6 +12,7 @@
 
 <br />
 
+---
 ## Developer Tech
 
 ### Skills
@@ -64,6 +66,7 @@
 
 <br />
 
+---
 ## Social 
 <p align="left">
   <!-- <a href="https://twitter.com/marsigliacr">
@@ -100,20 +103,16 @@
 ---
 ## GitHub Stats
 
-<!-- <p align="left"> -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=marsigliadev&show_icons=true&hide_border=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&border_radius=15" alt="marsiglia's github stats" >
-  </a>
-<!-- </p> -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=marsigliadev&show_icons=true&hide_border=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&border_radius=15" alt="marsiglia's github stats" style="margin-bottom: 1em">
+</a>
 
-<!-- <p align="left"> -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marsigliadev&exclude_repo=github-readme-stats,anuraghazra.github.iomarsigliadev&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&border_radius=15" alt="marsiglia's most used programming languages" >
-  </a>
-<!-- </p> -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marsigliadev&exclude_repo=github-readme-stats,anuraghazra.github.iomarsigliadev&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&border_radius=15" alt="marsiglia's most used programming languages" >
+</a>
 
 
-<br />
+
 
 [website-url]: https://my-website-url.com
 [twitter]: https://twitter.com/marsigliacr
