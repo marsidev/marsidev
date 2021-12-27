@@ -51,7 +51,7 @@
 
 ### Tools:
 <p align="left">
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC
 ?style=flat&logo=visualstudiocode&logoColor=white" alt="vscode" style="vertical-align:top; margin:4px">
   <img src="https://img.shields.io/badge/Terminal-4D4D4D?style=flat&logo=windows-terminal&logoColor=white" alt="windows terminal" style="vertical-align:top; margin:4px">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="git" style="vertical-align:top; margin:4px">
