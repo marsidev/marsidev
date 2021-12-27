@@ -97,6 +97,13 @@
 
 <br />
 
+---
+
+<img src="https://github-readme-stats.vercel.app/api?username=marsigliadev&show_icons=true&hide_border=true&count_private=true" align="left" alt="marsiglia's github stats" >
+
+
+<br />
+
 [website-url]: https://my-website-url.com
 [twitter]: https://twitter.com/marsigliacr
 <!-- [youtube]: https://youtube.com/marsiglia -->
