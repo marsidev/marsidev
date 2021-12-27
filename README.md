@@ -1,6 +1,5 @@
 # Hi there, I'm Luis Marsiglia 👋
 
----
 <br />
 
 ## About me
@@ -10,7 +9,6 @@
 - ⚡ Fun fact: I'm also working on mobile esports (Clash Royale) 📱 as data analyst for [Tribe Gaming](https://twitter.com/tribegaming). You can check my [Twitter](https://twitter.com/marsigliaCR), I'm verified <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Twitter_Verified_Badge.svg/512px-Twitter_Verified_Badge.svg.png" alt="html" style="vertical-align:top" width="22px">
 - 🧑 He / him
 
----
 <br />
 
 ## Developer Tech
@@ -64,7 +62,6 @@
 </p>
 
 
----
 <br />
 
 ## Social 
@@ -98,7 +95,6 @@
 
 </p>
 
-<br />
 <br />
 
 [website-url]: https://my-website-url.com
