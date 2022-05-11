@@ -4,12 +4,12 @@
 
 ---
 ## About me
-- 👨‍💻 Web developer from Venezuela
+- 👨‍💻 Full-stack web developer from Venezuela
 - 🔭 Currently working on my portfolio website
-- 🌱 Currently learning rust, go, deno
+- 🌱 I'm interested on learn rust, go, and deno
 - ⭐ My fav frontend techs are: NextJS, Vite, ChakraUI
 - ⭐ My fav backend techs are: NodeJS, Express, MongoDB
-- ⚡ Fun fact: I'm working as mobile esports data analyst for [Tribe Gaming][tribegaming]. You can check my [Twitter][twitter], I'm verified <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Twitter_Verified_Badge.svg/512px-Twitter_Verified_Badge.svg.png" alt="html" style="vertical-align:top" width="22px">
+- ⚡ Fun fact: I'm working as mobile esports data analyst for [Tribe Gaming][tribegaming]. You can check my [Twitter][twitter] <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Twitter_Verified_Badge.svg/512px-Twitter_Verified_Badge.svg.png" alt="html" style="vertical-align:top" width="22px">
 - 🧑 He / him
 
 <br />
@@ -74,7 +74,7 @@
 ---
 ## Social 
 <p align="left">  
-  <a href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmarsigliadev&screen_name=marsigliacr">
+  <a href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmarsidev&screen_name=marsigliacr">
     <img src="https://img.shields.io/twitter/follow/marsigliacr?label=Follow&color=1DA1F2&logo=twitter&style=flat" alt="follow" style="vertical-align:top; margin:4px">
   </a>
 
@@ -95,11 +95,11 @@
 ## GitHub Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=marsigliadev&show_icons=true&hide_border=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&border_radius=15" alt="marsiglia's github stats" style="margin-bottom: 1em">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=marsidev&show_icons=true&hide_border=true&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&border_radius=15" alt="marsiglia's github stats" style="margin-bottom: 1em">
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marsigliadev&exclude_repo=github-readme-stats,anuraghazra.github.iomarsigliadev&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&border_radius=15" alt="marsiglia's most used programming languages" >
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marsidev&exclude_repo=github-readme-stats,anuraghazra.github.iomarsidev&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&border_radius=15" alt="marsiglia's most used programming languages" >
 </a>
 
 <!-- [website-url]: https://my-website-url.com -->
