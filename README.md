@@ -71,10 +71,13 @@
 ### Support me
 <p>
   <a href="https://www.buymeacoffee.com/marsi" title="https://www.buymeacoffee.com/marsi">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="auto" alt="marsidev"  />
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="auto" alt="Buy me a cofee in buymeacoffee.com"  />
   </a>
   <a href="https://ko-fi.com/marsidev" title="https://ko-fi.com/marsidev">
-    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="auto" alt="marsidev"  />
+    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="auto" alt="Buy me a cofee in ko-fi.com"  />
+  </a>
+  <a href="https://cafecito.app/marsi" title="https://cafecito.app/marsi">
+    <img src="https://cdn.cafecito.app/imgs/buttons/button_6.svg" height="50" width="auto" alt="Invitame un café en cafecito.app" />
   </a>
 </p>
 
