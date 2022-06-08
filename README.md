@@ -11,22 +11,26 @@
 
 ### 🔗 Connect with me
 <p>
-<a href="https://twitter.com/marsigliacr" title="@marsigliacr on Twitter"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter logo" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/marsidev" title="marsidev on Twitter"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin logo" height="30" width="40" /></a>
+<a href="mailto:marsiglia.business@gmail.com" title="marsiglia.business@gmail.com"><img align="center" src="https://img.shields.io/badge/Email-c14438?style=flat-square&logo=gmail&logoColor=white&link=mailto:marsiglia.business@gmail.com" alt="gmail badge" /></a>
+<a href="https://twitter.com/marsigliacr" title="@marsigliacr on Twitter"><img align="center" src="https://img.shields.io/badge/@marsigliacr-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=mailto:marsiglia.business@gmail.com" alt="twitter badge"/></a>
+<a href="https://twitter.com/marsigliacr" title="@marsidev on Linkedin"><img align="center" src="https://img.shields.io/badge/@marsidev-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=mailto:marsiglia.business@gmail.com" alt="linkedin badge"/></a>
 </p>
 
 ---
 
 ### 🛠️ Tech 
 <p align="left"> 
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="javascript" style="vertical-align:top; margin:4px">
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" alt="nodejs" style="vertical-align:top; margin:4px">
-  <img src="https://img.shields.io/badge/React-007096?style=flat&logo=react&logoColor=white" alt="react" style="vertical-align:top; margin:4px">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="nextjs" style="vertical-align:top; margin:4px">
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" alt="vite" style="vertical-align:top; margin:4px">
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express" alt="expressjs" style="vertical-align:top; margin:4px">
-  <img src="https://img.shields.io/badge/Fastify-404D59?style=flat&logo=fastify" alt="fastify" style="vertical-align:top; margin:4px">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="mongodb" style="vertical-align:top; margin:4px">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="javascript badge" style="vertical-align:top; margin:4px">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="typescript badge" style="vertical-align:top; margin:4px">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" alt="nodejs badge" style="vertical-align:top; margin:4px">
+  <img src="https://img.shields.io/badge/React-007096?style=flat-square&logo=react&logoColor=white" alt="react badge" style="vertical-align:top; margin:4px">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="nextjs badge" style="vertical-align:top; margin:4px">
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="vite badge" style="vertical-align:top; margin:4px">
+  <img src="https://img.shields.io/badge/Express.js-000?style=flat-square&logo=express" alt="expressjs" style="vertical-align:top; margin:4px">
+  <img src="https://img.shields.io/badge/Fastify-000?style=flat-square&logo=fastify" alt="fastify badge" style="vertical-align:top; margin:4px">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=css3&logoColor=white" alt="html5 badge" style="vertical-align:top; margin:4px">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="css3 badge" style="vertical-align:top; margin:4px">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="mongodb" style="vertical-align:top; margin:4px">
 </p>
 
 ---
@@ -53,7 +57,17 @@
 --- -->
 
 ### 📈 Stats
- <div align="center" style="display:flex; justify-content:center; align-items:center; flex-direction:row; max-width:100%; gap:0.15em; flex-wrap:wrap;">
+![Commits Streak](https://github-readme-streak-stats.herokuapp.com/?user=marsidev&theme=dracula&hide_border=false&currStreakNum=38B2AC&sideLabels=38B2AC&ring=38B2AC&sideNums=38B2AC&stroke=E2E8F0&currStreakLabel=38B2AC&fire=F56565&background=ffffff&dates=1A202C)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=marsidev&count_private=true&show_icons=true&count_private=true&border_radius=16&locale=en&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats&disable_animations=false&theme=buefy)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marsidev&hide=TeX,Procfile&layout=compact&border_radius=16&locale=en&disable_animations=false&theme=buefy)
+<!-- ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=marsidev?username=marsidev&hide_border=false&border_radius=16&layout=compact&langs_count=10&disable_animations=true&theme=buefy) -->
+
+<!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=marsidev) -->
+![Visitor Badge](https://komarev.com/ghpvc/?username=marsidev&label=Profile%20views&color=0e75b6&style=flat)
+![Wakatime Stats](https://wakatime.com/badge/user/7fee11fb-f30c-4ec4-9052-d9f582b1ebc4.svg?style=flat)
+
+
+ <!-- <div align="center" style="display:flex; justify-content:center; align-items:center; flex-direction:row; max-width:100%; gap:0.15em; flex-wrap:wrap;">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marsidev&theme=dracula&hide_border=false&currStreakNum=38B2AC&sideLabels=38B2AC&ring=38B2AC&sideNums=38B2AC&stroke=E2E8F0&currStreakLabel=38B2AC&fire=F56565&background=ffffff&dates=1A202C" alt="marsidev's commits streak stats" style="border-radius:16px;" />
   
   <br/>
@@ -63,30 +77,31 @@
   <br/>
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marsidev&hide_border=false&border_radius=16&layout=compact&langs_count=10&disable_animations=true&theme=buefy" alt="marsidev's most used programming languages" style="" />
-  
+
+	
   <br/>
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=marsidev?username=marsidev&hide_border=false&border_radius=16&layout=compact&langs_count=10&disable_animations=true&theme=buefy" alt="marsidev's wakatime stats" style="" />
-</div>
+</div> -->
 
-<div style="display:flex; justify-content:center; align-items:center; flex-direction:row; max-width:100%; gap:1em; flex-wrap:wrap; margin-top:1em;">
+<!-- <div style="display:flex; justify-content:center; align-items:center; flex-direction:row; max-width:100%; gap:1em; flex-wrap:wrap; margin-top:1em;">
   <div>
     <img src="https://komarev.com/ghpvc/?username=marsidev&label=Profile%20views&color=0e75b6&style=flat" alt="marsidev" /> 
     <img src="https://wakatime.com/badge/user/7fee11fb-f30c-4ec4-9052-d9f582b1ebc4.svg?style=flat" alt="wakatime" />
   </div>
-</div>
+</div> -->
 
 ---
 
 ### Support
-<div style="display:flex; flex-direction:row; gap:1em; flex-wrap:wrap;">
-  <a href="https://www.buymeacoffee.com/marsi">
-    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="auto" alt="marsidev" />
+<p>
+  <a href="https://www.buymeacoffee.com/marsi" title="https://www.buymeacoffee.com/marsi">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="auto" alt="marsidev" style="border-radius:9999px;" />
   </a>
-  <a href="https://ko-fi.com/marsidev">
-    <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="auto" alt="marsidev" />
+  <a href="https://ko-fi.com/marsidev" title="https://ko-fi.com/marsidev">
+    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="auto" alt="marsidev" style="border-radius:9999px;" />
   </a>
-</div>
+</p>
 
 [twitter]: https://twitter.com/marsigliacr
 [tribegaming]: https://twitter.com/tribegaming
