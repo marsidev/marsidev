@@ -13,7 +13,7 @@
 <p>
 <a href="mailto:marsiglia.business@gmail.com" title="marsiglia.business@gmail.com"><img align="center" src="https://img.shields.io/badge/Email-c14438?style=flat-square&logo=gmail&logoColor=white&link=mailto:marsiglia.business@gmail.com" alt="gmail badge" /></a>
 <a href="https://twitter.com/marsigliacr" title="@marsigliacr on Twitter"><img align="center" src="https://img.shields.io/badge/@marsigliacr-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=mailto:marsiglia.business@gmail.com" alt="twitter badge"/></a>
-<a href="https://twitter.com/marsigliacr" title="@marsidev on Linkedin"><img align="center" src="https://img.shields.io/badge/@marsidev-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=mailto:marsiglia.business@gmail.com" alt="linkedin badge"/></a>
+<a href="https://www.linkedin.com/in/marsidev" title="@marsidev on Linkedin"><img align="center" src="https://img.shields.io/badge/@marsidev-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=mailto:marsiglia.business@gmail.com" alt="linkedin badge"/></a>
 </p>
 
 ---
@@ -57,49 +57,29 @@
 --- -->
 
 ### 📈 Stats
-![Commits Streak](https://github-readme-streak-stats.herokuapp.com/?user=marsidev&theme=dracula&hide_border=false&currStreakNum=38B2AC&sideLabels=38B2AC&ring=38B2AC&sideNums=38B2AC&stroke=E2E8F0&currStreakLabel=38B2AC&fire=F56565&background=ffffff&dates=1A202C)
+<!-- ![Commits Streak](https://github-readme-streak-stats.herokuapp.com/?user=marsidev&theme=buefy) -->
+
+<div style="border-radius:16px;padding:0;margin:0;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=marsidev&theme=buefy" alt="Daily Commits Streak" style="border-radius:16px;padding:0;margin:0;">
+</div>
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=marsidev&count_private=true&show_icons=true&count_private=true&border_radius=16&locale=en&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats&disable_animations=false&theme=buefy)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marsidev&hide=TeX,Procfile&layout=compact&border_radius=16&locale=en&disable_animations=false&theme=buefy)
 <!-- ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=marsidev?username=marsidev&hide_border=false&border_radius=16&layout=compact&langs_count=10&disable_animations=true&theme=buefy) -->
 
 <!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=marsidev) -->
-![Visitor Badge](https://komarev.com/ghpvc/?username=marsidev&label=Profile%20views&color=0e75b6&style=flat)
-![Wakatime Stats](https://wakatime.com/badge/user/7fee11fb-f30c-4ec4-9052-d9f582b1ebc4.svg?style=flat)
-
-
- <!-- <div align="center" style="display:flex; justify-content:center; align-items:center; flex-direction:row; max-width:100%; gap:0.15em; flex-wrap:wrap;">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marsidev&theme=dracula&hide_border=false&currStreakNum=38B2AC&sideLabels=38B2AC&ring=38B2AC&sideNums=38B2AC&stroke=E2E8F0&currStreakLabel=38B2AC&fire=F56565&background=ffffff&dates=1A202C" alt="marsidev's commits streak stats" style="border-radius:16px;" />
-  
-  <br/>
-  
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=marsidev&show_icons=true&hide_border=false&count_private=true&border_radius=16&locale=en&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats&disable_animations=true&theme=buefy" alt="marsidev's github stats" style="" />
-  
-  <br/>
-  
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marsidev&hide_border=false&border_radius=16&layout=compact&langs_count=10&disable_animations=true&theme=buefy" alt="marsidev's most used programming languages" style="" />
-
-	
-  <br/>
-  
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=marsidev?username=marsidev&hide_border=false&border_radius=16&layout=compact&langs_count=10&disable_animations=true&theme=buefy" alt="marsidev's wakatime stats" style="" />
-</div> -->
-
-<!-- <div style="display:flex; justify-content:center; align-items:center; flex-direction:row; max-width:100%; gap:1em; flex-wrap:wrap; margin-top:1em;">
-  <div>
-    <img src="https://komarev.com/ghpvc/?username=marsidev&label=Profile%20views&color=0e75b6&style=flat" alt="marsidev" /> 
-    <img src="https://wakatime.com/badge/user/7fee11fb-f30c-4ec4-9052-d9f582b1ebc4.svg?style=flat" alt="wakatime" />
-  </div>
-</div> -->
+![Visitor Badge](https://komarev.com/ghpvc/?username=marsidev&label=Profile%20views&color=0e75b6&style=flat-square)
+![Wakatime Stats](https://wakatime.com/badge/user/7fee11fb-f30c-4ec4-9052-d9f582b1ebc4.svg?style=flat-square)
 
 ---
 
-### Support
+### Support me
 <p>
   <a href="https://www.buymeacoffee.com/marsi" title="https://www.buymeacoffee.com/marsi">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="auto" alt="marsidev" style="border-radius:9999px;" />
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="auto" alt="marsidev"  />
   </a>
   <a href="https://ko-fi.com/marsidev" title="https://ko-fi.com/marsidev">
-    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="auto" alt="marsidev" style="border-radius:9999px;" />
+    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="auto" alt="marsidev"  />
   </a>
 </p>
 
