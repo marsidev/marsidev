@@ -31,54 +31,49 @@
 
 ---
 
-<!-- ### 📈 Stats -->
-<details>
-  <summary style="font-size:1.25em;">
-    <b>📈 Stats</b>
-  </summary>
-  <br/>
-  <div style="display:flex; justify-content:center; align-items:center; flex-direction:row; max-width:100%; gap:1em; flex-wrap:wrap;">
-    <a href="https://git.io/streak-stats">
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marsidev&theme=dracula&hide_border=true&currStreakNum=38B2AC&sideLabels=38B2AC&ring=38B2AC&sideNums=38B2AC&stroke=E2E8F0&currStreakLabel=38B2AC&fire=F56565&background=ffffff&dates=1A202C" alt="marsidev's commits streak stats" style="border-radius:16px;" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=marsidev&show_icons=true&hide_border=true&count_private=true&border_radius=16&locale=en&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats&disable_animations=true&theme=buefy" alt="marsidev's github stats" style="" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marsidev&hide_border=true&border_radius=16&layout=compact&langs_count=10&disable_animations=true&theme=buefy" alt="marsidev's most used programming languages" style="" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=marsidev?username=marsidev&hide_border=true&border_radius=16&layout=compact&langs_count=10&disable_animations=true&theme=buefy" alt="marsidev's wakatime stats" style="" />
-    </a>
-  </div>
-</details>
+### ✨ Projects
+<div style="display:flex; justify-content:center; align-items:center; flex-direction:row; max-width:100%; gap:1em; flex-wrap:wrap;">
+  <a href="https://github.com/marsidev/climatic">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marsidev&repo=climatic&hide_border=false&border_radius=16&&disable_animations=tru&theme=buefy" alt="" style=""  />
+  </a>
+  <a href="https://github.com/marsidev/wordly">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marsidev&repo=wordly&hide_border=false&border_radius=16&&disable_animations=true&theme=buefy" alt="" style=""  />
+  </a>
+  <a href="https://github.com/marsidev/overnote">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marsidev&repo=overnote&hide_border=false&border_radius=16&&disable_animations=true&theme=buefy" alt="" style=""  />
+  </a>
+  <a href="https://github.com/marsidev/AxieHub">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marsidev&repo=AxieHub&hide_border=false&border_radius=16&disable_animations=true&theme=buefy" alt="" style=""  />
+  </a>
+  <a href="https://github.com/marsidev/get-sc-key">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marsidev&repo=get-sc-key&hide_border=false&border_radius=16&disable_animations=true&theme=buefy" alt="" style=""  />
+  </a>
+</div>
 
 ---
 
-<!-- ### ✨ Projects -->
-<details>
-  <summary style="font-size:1.25em;">
-    <b>✨ Projects</b>
-  </summary>
-  <br/>
-  <div style="display:flex; justify-content:center; align-items:center; flex-direction:row; max-width:100%; gap:1em; flex-wrap:wrap;">
-    <a href="https://github.com/marsidev/climatic">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marsidev&repo=climatic&hide_border=true&border_radius=16&&disable_animations=tru&theme=buefy" alt="" style=""  />
-    </a>
-    <a href="https://github.com/marsidev/wordly">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marsidev&repo=wordly&hide_border=true&border_radius=16&&disable_animations=true&theme=buefy" alt="" style=""  />
-    </a>
-    <a href="https://github.com/marsidev/overnote">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marsidev&repo=overnote&hide_border=true&border_radius=16&&disable_animations=true&theme=buefy" alt="" style=""  />
-    </a>
-    <a href="https://github.com/marsidev/AxieHub">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marsidev&repo=AxieHub&hide_border=true&border_radius=16&disable_animations=true&theme=buefy" alt="" style=""  />
-    </a>
-    <a href="https://github.com/marsidev/get-sc-key">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marsidev&repo=get-sc-key&hide_border=true&border_radius=16&disable_animations=true&theme=buefy" alt="" style=""  />
-    </a>
+### 📈 Stats
+ <div style="display:flex; justify-content:center; align-items:center; flex-direction:row; max-width:100%; gap:1em; flex-wrap:wrap;">
+  <a href="https://git.io/streak-stats">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marsidev&theme=dracula&hide_border=false&currStreakNum=38B2AC&sideLabels=38B2AC&ring=38B2AC&sideNums=38B2AC&stroke=E2E8F0&currStreakLabel=38B2AC&fire=F56565&background=ffffff&dates=1A202C" alt="marsidev's commits streak stats" style="border-radius:16px;" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=marsidev&show_icons=true&hide_border=false&count_private=true&border_radius=16&locale=en&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats&disable_animations=true&theme=buefy" alt="marsidev's github stats" style="" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marsidev&hide_border=false&border_radius=16&layout=compact&langs_count=10&disable_animations=true&theme=buefy" alt="marsidev's most used programming languages" style="" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=marsidev?username=marsidev&hide_border=false&border_radius=16&layout=compact&langs_count=10&disable_animations=true&theme=buefy" alt="marsidev's wakatime stats" style="" />
+  </a>
+</div>
+
+<div style="display:flex; justify-content:center; align-items:center; flex-direction:row; max-width:100%; gap:1em; flex-wrap:wrap; margin-top:1em;">
+  <div>
+    <img src="https://komarev.com/ghpvc/?username=marsidev&label=Profile%20views&color=0e75b6&style=flat" alt="marsidev" /> 
+    <img src="https://wakatime.com/badge/user/7fee11fb-f30c-4ec4-9052-d9f582b1ebc4.svg?style=flat" alt="wakatime" />
   </div>
-</details>
+</div>
 
 ---
 
@@ -91,17 +86,6 @@
     <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="auto" alt="marsidev" />
   </a>
 </div>
-
----
-
-
-### Labels
-<div style="display:flex; flex-direction:row; gap:.5em; flex-wrap:wrap;">
-  <img src="https://komarev.com/ghpvc/?username=marsidev&label=Profile%20views&color=0e75b6&style=flat" alt="marsidev" /> 
-
-  <img src="https://wakatime.com/badge/user/7fee11fb-f30c-4ec4-9052-d9f582b1ebc4.svg?style=flat" alt="wakatime" />
-</div>
-
 
 [twitter]: https://twitter.com/marsigliacr
 [tribegaming]: https://twitter.com/tribegaming
