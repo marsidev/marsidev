@@ -53,16 +53,25 @@
 --- -->
 
 ### 📈 Stats
- <div style="display:flex; justify-content:center; align-items:center; flex-direction:row; max-width:100%; gap:1em; flex-wrap:wrap;">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marsidev&theme=dracula&hide_border=false&currStreakNum=38B2AC&sideLabels=38B2AC&ring=38B2AC&sideNums=38B2AC&stroke=E2E8F0&currStreakLabel=38B2AC&fire=F56565&background=ffffff&dates=1A202C" alt="marsidev's commits streak stats" style="border-radius:16px; margin:4px;" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=marsidev&show_icons=true&hide_border=false&count_private=true&border_radius=16&locale=en&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats&disable_animations=true&theme=buefy" alt="marsidev's github stats" style="margin:4px;" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marsidev&hide_border=false&border_radius=16&layout=compact&langs_count=10&disable_animations=true&theme=buefy" alt="marsidev's most used programming languages" style="margin:4px;" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=marsidev?username=marsidev&hide_border=false&border_radius=16&layout=compact&langs_count=10&disable_animations=true&theme=buefy" alt="marsidev's wakatime stats" style="margin:4px;" />
+ <div align="center" style="display:flex; justify-content:center; align-items:center; flex-direction:row; max-width:100%; gap:0.15em; flex-wrap:wrap;">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marsidev&theme=dracula&hide_border=false&currStreakNum=38B2AC&sideLabels=38B2AC&ring=38B2AC&sideNums=38B2AC&stroke=E2E8F0&currStreakLabel=38B2AC&fire=F56565&background=ffffff&dates=1A202C" alt="marsidev's commits streak stats" style="border-radius:16px;" />
+  
+  <br/>
+  
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=marsidev&show_icons=true&hide_border=false&count_private=true&border_radius=16&locale=en&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats&disable_animations=true&theme=buefy" alt="marsidev's github stats" style="" />
+  
+  <br/>
+  
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marsidev&hide_border=false&border_radius=16&layout=compact&langs_count=10&disable_animations=true&theme=buefy" alt="marsidev's most used programming languages" style="" />
+  
+  <br/>
+  
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=marsidev?username=marsidev&hide_border=false&border_radius=16&layout=compact&langs_count=10&disable_animations=true&theme=buefy" alt="marsidev's wakatime stats" style="" />
 </div>
 
 <div style="display:flex; justify-content:center; align-items:center; flex-direction:row; max-width:100%; gap:1em; flex-wrap:wrap; margin-top:1em;">
   <div>
-    <img src="https://komarev.com/ghpvc/?username=marsidev&label=Profile%20views&color=0e75b6&style=flat" alt="marsidev" style="margin-top:16px;"  /> 
+    <img src="https://komarev.com/ghpvc/?username=marsidev&label=Profile%20views&color=0e75b6&style=flat" alt="marsidev" /> 
     <img src="https://wakatime.com/badge/user/7fee11fb-f30c-4ec4-9052-d9f582b1ebc4.svg?style=flat" alt="wakatime" />
   </div>
 </div>
