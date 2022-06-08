@@ -33,19 +33,19 @@
 
 ### ✨ Projects
 <div style="display:flex; justify-content:center; align-items:center; flex-direction:row; max-width:100%; gap:1em; flex-wrap:wrap;">
-  <a href="https://github.com/marsidev/climatic">
+  <a href="https://github.com/marsidev/climatic" style="margin:4px">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marsidev&repo=climatic&hide_border=false&border_radius=16&&disable_animations=tru&theme=buefy" alt="" style=""  />
   </a>
-  <a href="https://github.com/marsidev/wordly">
+  <a href="https://github.com/marsidev/wordly" style="margin:4px">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marsidev&repo=wordly&hide_border=false&border_radius=16&&disable_animations=true&theme=buefy" alt="" style=""  />
   </a>
-  <a href="https://github.com/marsidev/overnote">
+  <a href="https://github.com/marsidev/overnote" style="margin:4px">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marsidev&repo=overnote&hide_border=false&border_radius=16&&disable_animations=true&theme=buefy" alt="" style=""  />
   </a>
-  <a href="https://github.com/marsidev/AxieHub">
+  <a href="https://github.com/marsidev/AxieHub" style="margin:4px">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marsidev&repo=AxieHub&hide_border=false&border_radius=16&disable_animations=true&theme=buefy" alt="" style=""  />
   </a>
-  <a href="https://github.com/marsidev/get-sc-key">
+  <a href="https://github.com/marsidev/get-sc-key" style="margin:4px">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marsidev&repo=get-sc-key&hide_border=false&border_radius=16&disable_animations=true&theme=buefy" alt="" style=""  />
   </a>
 </div>
