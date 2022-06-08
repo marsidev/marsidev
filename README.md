@@ -66,6 +66,9 @@
 ![Visitor Badge](https://komarev.com/ghpvc/?username=marsidev&label=Profile%20views&color=0e75b6&style=flat-square)
 ![Wakatime Stats](https://wakatime.com/badge/user/7fee11fb-f30c-4ec4-9052-d9f582b1ebc4.svg?style=flat-square)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ---
 
 ### Support me
