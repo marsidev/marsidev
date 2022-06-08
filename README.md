@@ -7,7 +7,7 @@
 - ⭐ My fav backend techs: NodeJS, Express, Fastify, MongoDB
 - ⚡ I'm working as Mobile Esports Data Analyst at [Tribe Gaming][tribegaming]. But I'm learning web development to be able to work as a web developer
 
-<div style="border:1px solid; margin-top:20px; margin-bottom:20px;"></div>
+---
 
 ### 🔗 Connect with me
 <p>
@@ -15,7 +15,7 @@
 <a href="https://linkedin.com/in/marsidev" title="marsidev on Twitter"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin logo" height="30" width="40" /></a>
 </p>
 
-<div style="border:1px solid; margin-top:20px; margin-bottom:20px;"></div>
+---
 
 ### 🛠️ Tech 
 <p align="left"> 
@@ -29,12 +29,12 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="mongodb" style="vertical-align:top; margin:4px">
 </p>
 
-<div style="border:1px solid; margin-top:20px; margin-bottom:20px;"></div>
+---
 
 <!-- ### 📈 Stats -->
 <details>
-  <summary>
-    <b style="font-size:1.15em;">📈 GitHub Stats</b>
+  <summary style="font-size:1.25em;">
+    <b>📈 Stats</b>
   </summary>
   <br/>
   <div style="display:flex; justify-content:center; align-items:center; flex-direction:row; max-width:100%; gap:1em; flex-wrap:wrap;">
@@ -53,12 +53,12 @@
   </div>
 </details>
 
-<div width="100%" style="border:1px solid; margin-top:20px; margin-bottom:20px;"></div>
+---
 
 <!-- ### ✨ Projects -->
 <details>
-  <summary>
-    <b style="font-size:1.15em;">✨ Projects</b>
+  <summary style="font-size:1.25em;">
+    <b>✨ Projects</b>
   </summary>
   <br/>
   <div style="display:flex; justify-content:center; align-items:center; flex-direction:row; max-width:100%; gap:1em; flex-wrap:wrap;">
@@ -80,7 +80,7 @@
   </div>
 </details>
 
-<div style="border:1px solid; margin-top:20px; margin-bottom:20px;"></div>
+---
 
 ### Support
 <div style="display:flex; flex-direction:row; gap:1em; flex-wrap:wrap;">
@@ -92,15 +92,15 @@
   </a>
 </div>
 
-<div style="border:1px solid; margin-top:20px; margin-bottom:20px;"></div>
+---
 
 
 ### Labels
-<p align="left"> 
+<div style="display:flex; flex-direction:row; gap:.5em; flex-wrap:wrap;">
   <img src="https://komarev.com/ghpvc/?username=marsidev&label=Profile%20views&color=0e75b6&style=flat" alt="marsidev" /> 
 
   <img src="https://wakatime.com/badge/user/7fee11fb-f30c-4ec4-9052-d9f582b1ebc4.svg?style=flat" alt="wakatime" />
-</p>
+</div>
 
 
 [twitter]: https://twitter.com/marsigliacr
