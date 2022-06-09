@@ -67,6 +67,81 @@
 ![Wakatime Stats](https://wakatime.com/badge/user/7fee11fb-f30c-4ec4-9052-d9f582b1ebc4.svg?style=flat-square)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2041%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 1,514 Contributions in the Year 2022
+ > 
+> 📦 160.9 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 19 Public Repositories 
+ > 
+> 🔑 4 Private Repositories  
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    20 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   2.18% 
+🌆 Daytime    310 commits    ████████░░░░░░░░░░░░░░░░░   33.81% 
+🌃 Evening    427 commits    ███████████░░░░░░░░░░░░░░   46.56% 
+🌙 Night      160 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.45%
+
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday       96 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.47% 
+Tuesday      87 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.49% 
+Wednesday    129 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.07% 
+Thursday     126 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.74% 
+Friday       168 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.32% 
+Saturday     221 commits    ██████░░░░░░░░░░░░░░░░░░░   24.1% 
+Sunday       90 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.81%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: America/Caracas
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               12 repos            █████████████████░░░░░░░░   70.59% 
+TypeScript               3 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.65% 
+Zig                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.88% 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.88%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/marsidev/marsidev/main/charts/bar_graph.png) 
+
+
+ Last Updated on 09/06/2022 00:39:16 UTC
 <!--END_SECTION:waka-->
 
 ---
