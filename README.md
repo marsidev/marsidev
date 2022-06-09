@@ -60,7 +60,7 @@
 ![Commits Streak](https://github-readme-streak-stats.herokuapp.com/?user=marsidev&theme=buefy)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=marsidev&count_private=true&show_icons=true&count_private=true&border_radius=16&locale=en&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats&disable_animations=false&theme=buefy)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marsidev&hide=TeX,Procfile&layout=compact&border_radius=16&locale=en&disable_animations=false&theme=buefy)
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=marsidev&border_radius=16&layout=default&theme=buefy)
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=marsidev&border_radius=16&layout=default&theme=buefy&langs_count=10&hide=json,bash,yaml)
 
 <!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=marsidev) -->
 ![Visitor Badge](https://komarev.com/ghpvc/?username=marsidev&label=Profile%20views&color=0e75b6&style=flat-square)
@@ -135,6 +135,8 @@ CSS                      1 repo              █░░░░░░░░░░�
 
  Last Updated on 09/06/2022 00:39:16 UTC
 <!--END_SECTION:waka-->
+
+Stats provided by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats), [waka-readme-stats](https://github.com/anmol098/waka-readme-stats), and [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats).
 
 ---
 
