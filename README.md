@@ -67,10 +67,6 @@
 ![Wakatime Stats](https://wakatime.com/badge/user/7fee11fb-f30c-4ec4-9052-d9f582b1ebc4.svg?style=flat-square)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2041%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
-
 **🐱 My GitHub Data** 
 
 > 🏆 1,514 Contributions in the Year 2022
@@ -135,10 +131,6 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 ```
 
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/marsidev/marsidev/main/charts/bar_graph.png) 
 
 
  Last Updated on 09/06/2022 00:39:16 UTC
