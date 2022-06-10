@@ -4,7 +4,7 @@
 - 🔭 Current projects I'm working on: Portfolio, [Climatic][climatic], [Wordly][wordly]
 - 🌱 I'm interested on learning new and trending technologies
 - ⭐ My fav frontend techs: NextJS, Vite, ChakraUI
-- ⭐ My fav backend techs: NodeJS, Express, Fastify, MongoDB
+- ⭐ My fav backend techs: NodeJS, Fastify, MongoDB
 - ⚡ I'm working as Mobile Esports Data Analyst at [Tribe Gaming][tribegaming]. But I'm learning web development to be able to work as a web developer
 
 ---
