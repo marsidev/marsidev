@@ -7,6 +7,7 @@
 - ⭐ Preferred frontend techs: NextJS, Vite, ChakraUI
 - ⭐ Preferred backend techs: NodeJS, Fastify, MongoDB
 - 👨‍💻 Learning React since December 2021
+- 💼 Open to work as Frontend Developer
 
 ---
 
