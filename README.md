@@ -75,7 +75,7 @@
 
 > 🏆 1,740 Contributions in the Year 2022
  > 
-> 📦 164.0 kB Used in GitHub's Storage 
+> 📦 164.1 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -112,11 +112,11 @@ Sunday       118 commits    ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Caracas
 
 💬 Programming Languages: 
-TypeScript               30 hrs 55 mins      ████████████░░░░░░░░░░░░░   48.59% 
-JavaScript               20 hrs 16 mins      ████████░░░░░░░░░░░░░░░░░   31.86% 
-JSON                     5 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   8.46% 
-Markdown                 2 hrs 56 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   4.62% 
-Other                    1 hr 26 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   2.27%
+TypeScript               38 hrs 29 mins      ██████████████░░░░░░░░░░░   59.28% 
+JavaScript               13 hrs 26 mins      █████░░░░░░░░░░░░░░░░░░░░   20.7% 
+JSON                     4 hrs 41 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   7.23% 
+Markdown                 2 hrs 44 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   4.23% 
+Other                    1 hr 46 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   2.75%
 
 ```
 
@@ -132,7 +132,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/07/2022 00:41:00 UTC
+ Last Updated on 15/07/2022 00:43:29 UTC
 <!--END_SECTION:waka-->
 
 Stats provided by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats), [waka-readme-stats](https://github.com/anmol098/waka-readme-stats), and [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats).
