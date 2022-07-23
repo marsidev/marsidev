@@ -3,8 +3,8 @@
 - ⚡ Mobile Esports Data Analyst at [Tribe Gaming][tribegaming] 
 - 👨‍💻 Becoming a React and JavaScript developer
 - 🌱 I'm interested on learn new and trending technologies
-- ⭐ Preferred fron-tend stack: NextJS, ChakraUI
-- ⭐ Preferred back-end stack: NodeJS, Fastify, MongoDB
+- ⭐ Preferred front-end stack: NextJS, Vite, ChakraUI
+- ⭐ Preferred back-end stack: NodeJS, Fastify, Express, MongoDB
 
 ---
 
@@ -31,35 +31,6 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="css3 badge" style="vertical-align:top; margin:4px">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="mongodb" style="vertical-align:top; margin:4px">
 </p>
-
----
-
-### ✨ Projects
-<div style="display:flex; justify-content:center; align-items:center; flex-direction:row; max-width:100%; gap:1em; flex-wrap:wrap;">
-  <a href="https://github.com/marsidev/bubble" style="margin:4px">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marsidev&repo=bubble&hide_border=false&border_radius=16&&disable_animations=tru&theme=buefy" alt="" style=""  />
-  </a>
-  
-  <a href="https://github.com/marsidev/climatic" style="margin:4px">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marsidev&repo=climatic&hide_border=false&border_radius=16&&disable_animations=tru&theme=buefy" alt="" style=""  />
-  </a>
-  
-  <a href="https://github.com/marsidev/wordly" style="margin:4px">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marsidev&repo=wordly&hide_border=false&border_radius=16&&disable_animations=true&theme=buefy" alt="" style=""  />
-  </a>
-  
-  <a href="https://github.com/marsidev/overnote" style="margin:4px">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marsidev&repo=overnote&hide_border=false&border_radius=16&&disable_animations=true&theme=buefy" alt="" style=""  />
-  </a>
-  
-  <a href="https://github.com/marsidev/AxieHub" style="margin:4px">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marsidev&repo=AxieHub&hide_border=false&border_radius=16&disable_animations=true&theme=buefy" alt="" style=""  />
-  </a>
-  
-  <a href="https://github.com/marsidev/get-sc-key" style="margin:4px">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marsidev&repo=get-sc-key&hide_border=false&border_radius=16&disable_animations=true&theme=buefy" alt="" style=""  />
-  </a>
-</div>
 
 ---
 
@@ -161,8 +132,6 @@ Stats provided by [github-readme-stats](https://github.com/anuraghazra/github-re
 
 [twitter]: https://twitter.com/marsigliacr
 [tribegaming]: https://twitter.com/tribegaming
-[climatic]: https://github.com/marsidev/climatic
-[wordly]: https://github.com/marsidev/wordly
 
 <!-- widgets and icons reference -->
 <!-- https://github.com/anuraghazra/github-readme-stats -->
