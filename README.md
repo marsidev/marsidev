@@ -1,13 +1,10 @@
 # 👋 Hello, I'm Luis Marsiglia.
 
 - ⚡ Mobile Esports Data Analyst at [Tribe Gaming][tribegaming] 
-- 👨‍💻 React and JavaScript beginner developer from Venezuela
-- 🔭 Current projects I'm working on: Portfolio, [Climatic][climatic], [Wordly][wordly]
+- 👨‍💻 Becoming a React and JavaScript developer
 - 🌱 I'm interested on learn new and trending technologies
-- ⭐ Preferred frontend techs: NextJS, Vite, ChakraUI
-- ⭐ Preferred backend techs: NodeJS, Fastify, MongoDB
-- 👨‍💻 Learning React since December 2021
-- 💼 Open to work as Frontend Developer
+- ⭐ Preferred fron-tend stack: NextJS, ChakraUI
+- ⭐ Preferred back-end stack: NodeJS, Fastify, MongoDB
 
 ---
 
@@ -37,26 +34,34 @@
 
 ---
 
-<!-- ### ✨ Projects
+### ✨ Projects
 <div style="display:flex; justify-content:center; align-items:center; flex-direction:row; max-width:100%; gap:1em; flex-wrap:wrap;">
+  <a href="https://github.com/marsidev/bubble" style="margin:4px">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marsidev&repo=bubble&hide_border=false&border_radius=16&&disable_animations=tru&theme=buefy" alt="" style=""  />
+  </a>
+  
   <a href="https://github.com/marsidev/climatic" style="margin:4px">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marsidev&repo=climatic&hide_border=false&border_radius=16&&disable_animations=tru&theme=buefy" alt="" style=""  />
   </a>
+  
   <a href="https://github.com/marsidev/wordly" style="margin:4px">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marsidev&repo=wordly&hide_border=false&border_radius=16&&disable_animations=true&theme=buefy" alt="" style=""  />
   </a>
+  
   <a href="https://github.com/marsidev/overnote" style="margin:4px">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marsidev&repo=overnote&hide_border=false&border_radius=16&&disable_animations=true&theme=buefy" alt="" style=""  />
   </a>
+  
   <a href="https://github.com/marsidev/AxieHub" style="margin:4px">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marsidev&repo=AxieHub&hide_border=false&border_radius=16&disable_animations=true&theme=buefy" alt="" style=""  />
   </a>
+  
   <a href="https://github.com/marsidev/get-sc-key" style="margin:4px">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marsidev&repo=get-sc-key&hide_border=false&border_radius=16&disable_animations=true&theme=buefy" alt="" style=""  />
   </a>
 </div>
 
---- -->
+---
 
 ### 📈 Stats
 ![Commits Streak](https://github-readme-streak-stats.herokuapp.com/?user=marsidev&theme=buefy)
@@ -137,6 +142,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 Stats provided by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats), [waka-readme-stats](https://github.com/anmol098/waka-readme-stats), and [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats).
 
+<!--
 ---
 
 ### Support me
@@ -151,6 +157,7 @@ Stats provided by [github-readme-stats](https://github.com/anuraghazra/github-re
     <img src="https://cdn.cafecito.app/imgs/buttons/button_6.svg" height="50" width="auto" alt="Invitame un café en cafecito.app" />
   </a>
 </p>
+-->
 
 [twitter]: https://twitter.com/marsigliacr
 [tribegaming]: https://twitter.com/tribegaming
