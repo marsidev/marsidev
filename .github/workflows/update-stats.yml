@@ -32,3 +32,4 @@ jobs:
           # IGNORED_REPOS: "waka-readme-stats, my-first-repo"
           # SYMBOL_VERSION: 1
           LOCALE: "en"
+          SHOW_TIMEZONE: false
