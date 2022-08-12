@@ -2,8 +2,8 @@
 
 - ⚡ Mobile Esports Data Analyst at [Tribe Gaming][tribegaming] 
 - 👨‍💻 Frontend Developer
-- ✍️ Experience with Nodejs, JavaScript, TypeScript, React, Nextjs, Vite, Express, Fastify, tPRC, Zustand, MongoDB, Supabase, ChakraUI, TailwindCSS 
-- ✨ I'm interested on learn new and trending technologies
+- ✍️ Experience with Nodejs, JavaScript, TypeScript, React, Nextjs, Vite, Express, Fastify, tRPC, Zustand, MongoDB, Supabase, ChakraUI, TailwindCSS 
+- ✨ I'm interested to learn new and trending technologies
 
 ---
 
