@@ -9,7 +9,7 @@
 
 ### 🔗 Connect with me
 <p>
-<a href="https://marsi.pages.dev" title="Portfolio"><img align="center" src="https://img.shields.io/badge/Portfolio-008080?style=flat-square&link="https://marsidev.xyz" alt="portfolio" /></a>
+<a href="https://marsidev.xyz" title="Portfolio"><img align="center" src="https://img.shields.io/badge/Portfolio-008080?style=flat-square&link="https://marsidev.xyz" alt="portfolio" /></a>
 <a href="mailto:marsiglia.business@gmail.com" title="marsiglia.business@gmail.com"><img align="center" src="https://img.shields.io/badge/Email-c14438?style=flat-square&logo=gmail&logoColor=white&link=mailto:marsiglia.business@gmail.com" alt="gmail badge" /></a>
 <a href="https://twitter.com/marsigliacr" title="@marsigliacr on Twitter"><img align="center" src="https://img.shields.io/badge/@marsigliacr-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/marsigliacr" alt="twitter badge"/></a>
 <a href="https://www.linkedin.com/in/marsidev" title="@marsidev on Linkedin"><img align="center" src="https://img.shields.io/badge/@marsidev-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/marsidev" alt="linkedin badge"/></a>
