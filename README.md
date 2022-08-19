@@ -1,8 +1,8 @@
 # 👋 Hello, I'm Luis Marsiglia.
 
 - ⚡ Mobile Esports Data Analyst at [Tribe Gaming][tribegaming] 
-- 👨‍💻 Frontend Developer
-- ✍️ Experience with Nodejs, JavaScript, TypeScript, React, Nextjs, Vite, Express, Fastify, tRPC, Zustand, MongoDB, Supabase, ChakraUI, TailwindCSS 
+- 👨‍💻 Full Stack Developer
+- ✍️ Experience with Node.js, JavaScript, TypeScript, React, Next.js, Vite, Express, Fastify, tRPC, Zustand, MongoDB, Supabase, ChakraUI, TailwindCSS, REST APIs, Deno, Jest, Vitest, Playwright, RTL 
 - ✨ I'm interested to learn new and trending technologies
 
 ---
