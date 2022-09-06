@@ -49,9 +49,9 @@
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 🏆 2,240 Contributions in the Year 2022
+> 🏆 2,244 Contributions in the Year 2022
  > 
-> 📦 170.5 kB Used in GitHub's Storage 
+> 📦 170.6 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -59,8 +59,31 @@
  > 
 > 🔑 5 Private Repositories  
  > 
+**I'm a Night 🦉** 
 
- Last Updated on 05/09/2022 00:45:30 UTC
+```text
+🌞 Morning    39 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   2.97% 
+🌆 Daytime    434 commits    ████████░░░░░░░░░░░░░░░░░   33.05% 
+🌃 Evening    656 commits    ████████████░░░░░░░░░░░░░   49.96% 
+🌙 Night      184 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.01%
+
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday       141 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.74% 
+Tuesday      139 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.59% 
+Wednesday    198 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.08% 
+Thursday     146 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.12% 
+Friday       226 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.21% 
+Saturday     301 commits    █████░░░░░░░░░░░░░░░░░░░░   22.92% 
+Sunday       162 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.34%
+
+```
+
+
+
+ Last Updated on 06/09/2022 00:44:09 UTC
 <!--END_SECTION:waka-->
 
 Stats provided by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats), [waka-readme-stats](https://github.com/anmol098/waka-readme-stats), and [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats).
