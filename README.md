@@ -1,22 +1,22 @@
-# 👋 Hello, I'm Luis Marsiglia.
+<div align="center">
+ <img src="header.svg" width="800" height="400">
+</div>
 
-- ⚡ Mobile esports data analyst at [Tribe Gaming][tribegaming] 
-- 👨‍💻 Self taught software developer
 
----
+## 🔗 Connect with me
 
-### 🔗 Connect with me
 <p>
-<a href="https://marsidev.xyz" title="Portfolio"><img align="center" src="https://img.shields.io/badge/Portfolio-008080?style=flat-square&link="https://marsidev.xyz" alt="portfolio" /></a>
-<a href="mailto:marsiglia.business@gmail.com" title="marsiglia.business@gmail.com"><img align="center" src="https://img.shields.io/badge/Email-c14438?style=flat-square&logo=gmail&logoColor=white&link=mailto:marsiglia.business@gmail.com" alt="gmail badge" /></a>
-<a href="https://twitter.com/marsigliacr" title="@marsigliacr on Twitter"><img align="center" src="https://img.shields.io/badge/@marsigliacr-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/marsigliacr" alt="twitter badge"/></a>
-<a href="https://www.linkedin.com/in/marsidev" title="@marsidev on Linkedin"><img align="center" src="https://img.shields.io/badge/@marsidev-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/marsidev" alt="linkedin badge"/></a>
+	<a href="https://marsidev.xyz" title="marsidev.xyz"><img align="center" src="https://img.shields.io/badge/marsidev.xyz-008080?style=flat-square&link="https://marsidev.xyz" alt="marsidev.xyz website" /></a>
+	<a href="mailto:marsiglia.business@gmail.com" title="marsiglia.business@gmail.com"><img align="center" src="https://img.shields.io/badge/Email-c14438?style=flat-square&logo=gmail&logoColor=white&link=mailto:marsiglia.business@gmail.com" alt="gmail badge" /></a>
+	<a href="https://twitter.com/marsigliacr" title="@marsigliacr on Twitter"><img align="center" src="https://img.shields.io/badge/@marsigliacr-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/marsigliacr" alt="twitter badge"/></a>
+	<a href="https://www.linkedin.com/in/marsidev" title="@marsidev on Linkedin"><img align="center" src="https://img.shields.io/badge/@marsidev-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/marsidev" alt="linkedin badge"/></a>
 </p>
 
 ---
 
-### 🛠️ Tech 
-<p align="left"> 
+## 🛠️ Tech
+
+<p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="javascript badge" style="vertical-align:top; margin:4px">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="typescript badge" style="vertical-align:top; margin:4px">
   <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" alt="nodejs badge" style="vertical-align:top; margin:4px">
@@ -35,11 +35,12 @@
 
 ---
 
-### 📈 Stats
+## 📈 Stats
+
 ![Commits Streak](https://github-readme-streak-stats.herokuapp.com/?user=marsidev&theme=buefy)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=marsidev&count_private=true&show_icons=true&count_private=true&border_radius=16&locale=en&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats&disable_animations=false&theme=buefy)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marsidev&hide=TeX,Procfile&layout=compact&border_radius=16&locale=en&disable_animations=false&theme=buefy)
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=marsidev&border_radius=16&layout=default&theme=buefy&langs_count=10&hide=json,bash,yaml,reStructuredText,Git%20Config)
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=marsidev&border_radius=16&layout=default&theme=buefy&langs_count=5&hide=json,bash,yaml,reStructuredText,Git%20Config)
 
 <!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=marsidev) -->
 ![Visitor Badge](https://komarev.com/ghpvc/?username=marsidev&label=Profile%20views&color=0e75b6&style=flat-square)
@@ -48,12 +49,12 @@
 *Note: Wakatime related data begins at Jun 08, 2022 (Date when I installed it).*
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
+**I'm a Night 🦉**
 
 ```text
-🌞 Morning    40 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   2.86% 
-🌆 Daytime    452 commits    ████████░░░░░░░░░░░░░░░░░   32.33% 
-🌃 Evening    681 commits    ████████████░░░░░░░░░░░░░   48.71% 
+🌞 Morning    40 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   2.86%
+🌆 Daytime    452 commits    ████████░░░░░░░░░░░░░░░░░   32.33%
+🌃 Evening    681 commits    ████████████░░░░░░░░░░░░░   48.71%
 🌙 Night      225 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.09%
 
 ```
@@ -64,22 +65,21 @@
 
 Stats provided by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats), [waka-readme-stats](https://github.com/anmol098/waka-readme-stats), and [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats).
 
-<!--
 ---
 
-### Support me
+## ☕ Support
+
 <p>
   <a href="https://www.buymeacoffee.com/marsi" title="https://www.buymeacoffee.com/marsi">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="auto" alt="Buy me a cofee in buymeacoffee.com"  />
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="auto" alt="Buy me a coffee in buymeacoffee.com"  />
   </a>
-  <a href="https://ko-fi.com/marsidev" title="https://ko-fi.com/marsidev">
-    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="auto" alt="Buy me a cofee in ko-fi.com"  />
+	<a href="https://ko-fi.com/marsidev" title="https://ko-fi.com/marsidev">
+    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="auto" alt="Buy me a coffee in ko-fi.com"  />
   </a>
   <a href="https://cafecito.app/marsi" title="https://cafecito.app/marsi">
-    <img src="https://cdn.cafecito.app/imgs/buttons/button_6.svg" height="50" width="auto" alt="Invitame un café en cafecito.app" />
+    <img src="https://cdn.cafecito.app/imgs/buttons/button_6.svg" height="50" width="auto" alt="Invítame un café en cafecito.app" />
   </a>
 </p>
--->
 
 [twitter]: https://twitter.com/marsigliacr
 [tribegaming]: https://twitter.com/tribegaming
