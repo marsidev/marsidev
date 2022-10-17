@@ -30,6 +30,9 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=css3&logoColor=white" alt="html5 badge" style="vertical-align:top; margin:4px">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="css3 badge" style="vertical-align:top; margin:4px">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="mongodb" style="vertical-align:top; margin:4px">
+  <img src="https://img.shields.io/badge/Astro-000?style=flat-square&logo=astro" alt="astro" style="vertical-align:top; margin:4px">
+  <img src="https://img.shields.io/badge/Solid.js-2C4F7C?style=flat-square&logo=solid" alt="solid.js" style="vertical-align:top; margin:4px">
+  <img src="https://img.shields.io/badge/TailwindCSS-000?style=flat-square&logo=tailwindcss" alt="tailwindcss" style="vertical-align:top; margin:4px">
 </p>
 
 ---
@@ -47,18 +50,6 @@
 *Note: Wakatime related data begins at Jun 08, 2022 (Date when I installed it).*
 
 <!--START_SECTION:waka-->
-**🐱 My GitHub Data** 
-
-> 🏆 2,483 Contributions in the Year 2022
- > 
-> 📦 172.2 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 34 Public Repositories 
- > 
-> 🔑 8 Private Repositories  
- > 
 **I'm a Night 🦉** 
 
 ```text
@@ -68,19 +59,6 @@
 🌙 Night      225 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.09%
 
 ```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday       145 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   10.37% 
-Tuesday      138 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.87% 
-Wednesday    204 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.59% 
-Thursday     178 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.73% 
-Friday       238 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.02% 
-Saturday     311 commits    █████░░░░░░░░░░░░░░░░░░░░   22.25% 
-Sunday       184 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.16%
-
-```
-
 
 
  Last Updated on 17/10/2022 00:56:37 UTC
