@@ -1,6 +1,6 @@
 <div align="center">
 	<a href="https://marsidev.xyz" title="Go to portfolio" target="_blank">
-		<img src="header.svg" width="800" height="400">
+		<img src="header.svg?v=2" width="800" height="400">
 	</a>
 </div>
 
