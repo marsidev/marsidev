@@ -41,8 +41,11 @@
 
 
 ![Commits Streak](https://github-readme-streak-stats.herokuapp.com/?user=marsidev&theme=jolly)
+
 ![Github Stats](https://github-readme-stats-three-red-66.vercel.app/api?username=marsidev&theme=rose_pine&count_private=true&show_icons=true&border_radius=8&locale=en&include_all_commits=true&custom_title=GitHub%20Stats&disable_animations=true)
+
 ![Top Langs](https://github-readme-stats-three-red-66.vercel.app/api/top-langs/?username=marsidev&theme=rose_pine&hide=TeX,Procfile,Nix&layout=compact&border_radius=8&locale=en&disable_animations=true&langs_count=6)
+
 ![Wakatime Stats](https://github-readme-stats-three-red-66.vercel.app/api/wakatime?username=marsidev&theme=rose_pine&border_radius=8&layout=compact&langs_count=6&hide=json,bash,yaml,other,toml,xml,restructuredtext,git%20config&disable_animations=true)
 
 <!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=marsidev) -->
