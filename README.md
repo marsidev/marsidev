@@ -39,16 +39,17 @@
 
 ## 📈 Stats
 
+
 ![Commits Streak](https://github-readme-streak-stats.herokuapp.com/?user=marsidev&theme=jolly)
-![Github Stats](https://github-readme-stats.vercel.app/api?username=marsidev&count_private=true&show_icons=true&count_private=true&border_radius=16&locale=en&include_all_commits=true&count_private=true&custom_title=GitHub%20Stats&disable_animations=false&theme=jolly)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marsidev&hide=TeX,Procfile&layout=compact&border_radius=16&locale=en&disable_animations=false&theme=jolly)
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=marsidev&border_radius=16&layout=default&theme=jolly&langs_count=5&hide=json,bash,yaml,reStructuredText,Git%20Config)
+![Github Stats](https://github-readme-stats-three-red-66.vercel.app/api?username=marsidev&theme=rose_pine&count_private=true&show_icons=true&border_radius=8&locale=en&include_all_commits=true&custom_title=GitHub%20Stats&disable_animations=true)
+![Top Langs](https://github-readme-stats-three-red-66.vercel.app/api/top-langs/?username=marsidev&theme=rose_pine&hide=TeX,Procfile,Nix&layout=compact&border_radius=8&locale=en&disable_animations=true&langs_count=6)
+![Wakatime Stats](https://github-readme-stats-three-red-66.vercel.app/api/wakatime?username=marsidev&theme=rose_pine&border_radius=8&layout=compact&langs_count=6&hide=json,bash,yaml,other,toml,xml,restructuredtext,git%20config&disable_animations=true)
 
 <!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=marsidev) -->
 ![Visitor Badge](https://komarev.com/ghpvc/?username=marsidev&label=Profile%20views&color=0e75b6&style=flat-square)
 ![Wakatime Stats](https://wakatime.com/badge/user/7fee11fb-f30c-4ec4-9052-d9f582b1ebc4.svg?style=flat-square)
 
-*Note: Wakatime related data begins at Jun 08, 2022 (Date when I installed it).*
+*Note: Wakatime related data begins at Jun 08, 2022.*
 
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
