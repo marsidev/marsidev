@@ -55,13 +55,13 @@
 **I'm a Night 🦉**
 
 ```text
-🌞 Morning                216 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 %
-🌆 Daytime                1788 commits        ████████░░░░░░░░░░░░░░░░░   33.10 %
-🌃 Evening                2469 commits        ███████████░░░░░░░░░░░░░░   45.71 %
-🌙 Night                  929 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.20 %
+🌞 Morning                217 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 %
+🌆 Daytime                1797 commits        ████████░░░░░░░░░░░░░░░░░   33.03 %
+🌃 Evening                2498 commits        ███████████░░░░░░░░░░░░░░   45.91 %
+🌙 Night                  929 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.07 %
 ```
 
- Last Updated on 04/11/2023 00:04:57 UTC
+ Last Updated on 04/12/2023 00:04:55 UTC
 <!--END_SECTION:waka-->
 
 Stats provided by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats), [waka-readme-stats](https://github.com/anmol098/waka-readme-stats), and [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats).
@@ -70,7 +70,7 @@ Stats provided by [github-readme-stats](https://github.com/anuraghazra/github-re
 
 ## ☕ Support
 
-<div align="center">
+<div align="left">
   <a href="https://www.paypal.com/donate?business=marsiglia.business@gmail.com&no_recurring=0&item_name=Donation+for+Luis+Marsiglia&item_number=marsiglia.business@gmail.com&amount=10&currency_code=USD" title="Donate with PayPal">
     <img src="./paypal-donate-button.png" height="50" width="auto" alt="Donate with PayPal"  />
   </a>
