@@ -1,17 +1,16 @@
 <div align="center">
-	<a href="https://marsidev.xyz" title="Go to portfolio" target="_blank">
-		<img src="header.svg" width="800" height="400">
-	</a>
+  <a href="https://marsidev.xyz" title="Go to portfolio" target="_blank">
+    <img src="header.svg" width="800" height="400">
+  </a>
 </div>
-
 
 ## 🔗 Connect with me
 
 <p>
-	<a href="https://marsidev.xyz" title="marsidev.xyz"><img align="center" src="https://img.shields.io/badge/marsidev.xyz-008080?style=flat-square&link="https://marsidev.xyz" alt="marsidev.xyz website" /></a>
-	<a href="mailto:marsiglia.business@gmail.com" title="marsiglia.business@gmail.com"><img align="center" src="https://img.shields.io/badge/Email-c14438?style=flat-square&logo=gmail&logoColor=white&link=mailto:marsiglia.business@gmail.com" alt="gmail badge" /></a>
-	<a href="https://twitter.com/marsigliacr" title="@marsigliacr on Twitter"><img align="center" src="https://img.shields.io/badge/@marsigliacr-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/marsigliacr" alt="twitter badge"/></a>
-	<a href="https://www.linkedin.com/in/marsidev" title="@marsidev on Linkedin"><img align="center" src="https://img.shields.io/badge/@marsidev-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/marsidev" alt="linkedin badge"/></a>
+  <a href="https://marsidev.xyz" title="marsidev.xyz"><img align="center" src='https://img.shields.io/badge/marsidev.xyz-008080?style=flat-square&link="https://marsidev.xyz' alt="marsidev website" /></a>
+  <a href="mailto:marsiglia.business@gmail.com" title="marsiglia.business@gmail.com"><img align="center" src="https://img.shields.io/badge/Email-c14438?style=flat-square&logo=gmail&logoColor=white&link=mailto:marsiglia.business@gmail.com" alt="gmail badge" /></a>
+  <a href="https://twitter.com/marsigliacr" title="@marsigliacr on Twitter"><img align="center" src="https://img.shields.io/badge/@marsigliacr-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/marsigliacr" alt="twitter badge"/></a>
+  <a href="https://www.linkedin.com/in/marsidev" title="@marsidev on LinkedIn"><img align="center" src="https://img.shields.io/badge/@marsidev-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/marsidev" alt="LinkedIn badge"/></a>
 </p>
 
 ---
@@ -39,7 +38,6 @@
 
 ## 📈 Stats
 
-
 ![Commits Streak](https://github-readme-streak-stats.herokuapp.com/?user=marsidev&theme=jolly)
 
 ![Github Stats](https://github-readme-stats-three-red-66.vercel.app/api?username=marsidev&theme=rose_pine&count_private=true&show_icons=true&border_radius=8&locale=en&include_all_commits=true&custom_title=GitHub%20Stats&disable_animations=true)
@@ -48,23 +46,20 @@
 
 ![Wakatime Stats](https://github-readme-stats-three-red-66.vercel.app/api/wakatime?username=marsidev&theme=rose_pine&border_radius=8&layout=compact&langs_count=6&hide=json,bash,yaml,other,toml,xml,restructuredtext,git%20config&disable_animations=true)
 
-<!-- ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=marsidev) -->
 ![Visitor Badge](https://komarev.com/ghpvc/?username=marsidev&label=Profile%20views&color=0e75b6&style=flat-square)
 ![Wakatime Stats](https://wakatime.com/badge/user/7fee11fb-f30c-4ec4-9052-d9f582b1ebc4.svg?style=flat-square)
 
 *Note: Wakatime related data begins at Jun 08, 2022.*
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
+**I'm a Night 🦉**
 
 ```text
-🌞 Morning                216 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
-🌆 Daytime                1788 commits        ████████░░░░░░░░░░░░░░░░░   33.10 % 
-🌃 Evening                2469 commits        ███████████░░░░░░░░░░░░░░   45.71 % 
-🌙 Night                  929 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
+🌞 Morning                216 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 %
+🌆 Daytime                1788 commits        ████████░░░░░░░░░░░░░░░░░   33.10 %
+🌃 Evening                2469 commits        ███████████░░░░░░░░░░░░░░   45.71 %
+🌙 Night                  929 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.20 %
 ```
-
-
 
  Last Updated on 04/11/2023 00:04:57 UTC
 <!--END_SECTION:waka-->
@@ -75,20 +70,20 @@ Stats provided by [github-readme-stats](https://github.com/anuraghazra/github-re
 
 ## ☕ Support
 
-<p>
+<div align="center">
+  <a href="https://www.paypal.com/donate?business=marsiglia.business@gmail.com&no_recurring=0&item_name=Donation+for+Luis+Marsiglia&item_number=marsiglia.business@gmail.com&amount=10&currency_code=USD" title="Donate with PayPal">
+    <img src="./paypal-donate-button.png" height="50" width="auto" alt="Donate with PayPal"  />
+  </a>
   <a href="https://www.buymeacoffee.com/marsi" title="https://www.buymeacoffee.com/marsi">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="auto" alt="Buy me a coffee in buymeacoffee.com"  />
   </a>
-	<a href="https://ko-fi.com/marsidev" title="https://ko-fi.com/marsidev">
+  <a href="https://ko-fi.com/marsidev" title="https://ko-fi.com/marsidev">
     <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="auto" alt="Buy me a coffee in ko-fi.com"  />
   </a>
   <a href="https://cafecito.app/marsi" title="https://cafecito.app/marsi">
     <img src="https://cdn.cafecito.app/imgs/buttons/button_6.svg" height="50" width="auto" alt="Invítame un café en cafecito.app" />
   </a>
-</p>
-
-[twitter]: https://twitter.com/marsigliacr
-[tribegaming]: https://twitter.com/tribegaming
+</div>
 
 <!-- widgets and icons reference -->
 <!-- https://github.com/anuraghazra/github-readme-stats -->
