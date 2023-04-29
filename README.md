@@ -9,7 +9,7 @@
 <p>
   <a href="https://marsidev.xyz" title="marsidev.xyz"><img align="center" src='https://img.shields.io/badge/marsidev.xyz-008080?style=flat-square&link='https://marsidev.xyz' alt="marsidev website" /></a>
   <a href="mailto:marsiglia.business@gmail.com" title="marsiglia.business@gmail.com"><img align="center" src="https://img.shields.io/badge/Email-c14438?style=flat-square&logo=gmail&logoColor=white&link=mailto:marsiglia.business@gmail.com" alt="gmail badge" /></a>
-  <a href="https://twitter.com/marsigliacr" title="@marsigliacr on Twitter"><img align="center" src="https://img.shields.io/badge/@marsigliacr-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/marsigliacr" alt="twitter badge"/></a>
+  <a href="https://twitter.com/marsidev" title="@marsidev on Twitter"><img align="center" src="https://img.shields.io/badge/@marsidev-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/marsidev" alt="twitter badge"/></a>
   <a href="https://www.linkedin.com/in/marsidev" title="@marsidev on LinkedIn"><img align="center" src="https://img.shields.io/badge/@marsidev-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/marsidev" alt="LinkedIn badge"/></a>
 </p>
 
@@ -52,16 +52,14 @@
 *Note: Wakatime related data begins at Jun 08, 2022.*
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
+**I'm a Night 🦉**
 
 ```text
-🌞 Morning                240 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
-🌆 Daytime                1878 commits        ████████░░░░░░░░░░░░░░░░░   32.46 % 
-🌃 Evening                2710 commits        ████████████░░░░░░░░░░░░░   46.84 % 
-🌙 Night                  958 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
+🌞 Morning                240 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 %
+🌆 Daytime                1878 commits        ████████░░░░░░░░░░░░░░░░░   32.46 %
+🌃 Evening                2710 commits        ████████████░░░░░░░░░░░░░   46.84 %
+🌙 Night                  958 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.56 %
 ```
-
-
 
  Last Updated on 04/29/2023 00:32:36 UTC
 <!--END_SECTION:waka-->
