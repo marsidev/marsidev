@@ -15,6 +15,8 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="javascript badge" style="vertical-align:top; margin:4px">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="typescript badge" style="vertical-align:top; margin:4px">
   <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" alt="nodejs badge" style="vertical-align:top; margin:4px">
+  <img src="https://img.shields.io/badge/Astro-1e1e1e?style=flat-square&logo=astro" alt="astro" style="vertical-align:top; margin:4px">
+  <img src="https://img.shields.io/badge/Vue-1e1e1e?style=flat-square&logo=vue.js" alt="vue" style="vertical-align:top; margin:4px">
   <img src="https://img.shields.io/badge/React-007096?style=flat-square&logo=react&logoColor=white" alt="react badge" style="vertical-align:top; margin:4px">
   <img src="https://img.shields.io/badge/Next.js-1e1e1e?style=flat-square&logo=next.js&logoColor=white" alt="nextjs badge" style="vertical-align:top; margin:4px">
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="vite badge" style="vertical-align:top; margin:4px">
@@ -23,7 +25,6 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=css3&logoColor=white" alt="html5 badge" style="vertical-align:top; margin:4px">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="css3 badge" style="vertical-align:top; margin:4px">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="mongodb" style="vertical-align:top; margin:4px">
-  <img src="https://img.shields.io/badge/Astro-1e1e1e?style=flat-square&logo=astro" alt="astro" style="vertical-align:top; margin:4px">
   <img src="https://img.shields.io/badge/Solid.js-2C4F7C?style=flat-square&logo=solid" alt="solid.js" style="vertical-align:top; margin:4px">
   <img src="https://img.shields.io/badge/TailwindCSS-1e1e1e?style=flat-square&logo=tailwindcss" alt="tailwindcss" style="vertical-align:top; margin:4px">
 </p>
