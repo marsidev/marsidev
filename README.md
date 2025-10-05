@@ -45,8 +45,18 @@
 *Note: Wakatime related data begins at Jun 08, 2022.*
 
 <!--START_SECTION:waka-->
+**I'm a Night 🦉** 
 
- Last Updated on 10/04/2025 00:06:21 UTC
+```text
+🌞 Morning                307 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
+🌆 Daytime                2013 commits        █████████░░░░░░░░░░░░░░░░   34.08 % 
+🌃 Evening                2660 commits        ███████████░░░░░░░░░░░░░░   45.04 % 
+🌙 Night                  926 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
+```
+
+
+
+ Last Updated on 10/05/2025 00:06:26 UTC
 <!--END_SECTION:waka-->
 
 Stats provided by [github-readme-stats](https://github.com/anuraghazra/github-readme-stats), [waka-readme-stats](https://github.com/anmol098/waka-readme-stats), and [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats).
