@@ -2,7 +2,7 @@
 
 <p>
   <a href="https://marsidev.com" title="marsidev.com"><img align="center" src='https://img.shields.io/badge/marsidev.com-008080?style=flat-square&link='https://marsidev.com' alt="marsidev website" /></a>
-  <a href="mailto:marsiglia.business@gmail.com" title="marsiglia.business@gmail.com"><img align="center" src="https://img.shields.io/badge/Email-c14438?style=flat-square&logo=gmail&logoColor=white&link=mailto:marsiglia.business@gmail.com" alt="gmail badge" /></a>
+  <a href="mailto:hello@marsidev.com" title="hello@marsidev.com"><img align="center" src="https://img.shields.io/badge/Email-c14438?style=flat-square&logo=gmail&logoColor=white&link=mailto:hello@marsidev.com" alt="gmail badge" /></a>
 <!--   <a href="https://twitter.com/marsidev" title="@marsidev on Twitter"><img align="center" src="https://img.shields.io/badge/@marsidev-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/marsidev" alt="twitter badge"/></a> -->
   <a href="https://www.linkedin.com/in/marsidev" title="@marsidev on LinkedIn"><img align="center" src="https://img.shields.io/badge/@marsidev-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/marsidev" alt="LinkedIn badge"/></a>
 </p>
@@ -66,18 +66,7 @@ Stats provided by [github-readme-stats](https://github.com/anuraghazra/github-re
 ## ☕ Support
 
 <div align="left">
-  <a href="https://www.paypal.com/donate?business=marsiglia.business@gmail.com&no_recurring=0&item_name=Donation+for+Luis+Marsiglia&item_number=marsiglia.business@gmail.com&amount=10&currency_code=USD" title="Donate with PayPal">
-    <img src="./paypal-donate-button.png" height="50" width="auto" alt="Donate with PayPal"  />
-  </a>
-<!--   <a href="https://www.buymeacoffee.com/marsi" title="https://www.buymeacoffee.com/marsi">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="auto" alt="Buy me a coffee in buymeacoffee.com"  />
-  </a> -->
-<!--   <a href="https://ko-fi.com/marsidev" title="https://ko-fi.com/marsidev">
-    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="auto" alt="Buy me a coffee in ko-fi.com"  />
-  </a> -->
-<!--   <a href="https://cafecito.app/marsi" title="https://cafecito.app/marsi">
-    <img src="https://cdn.cafecito.app/imgs/buttons/button_6.svg" height="50" width="auto" alt="Invítame un café en cafecito.app" />
-  </a> -->
+  <a href='https://ko-fi.com/K3K1D5PRI' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>
 
 <!-- widgets and icons reference -->
